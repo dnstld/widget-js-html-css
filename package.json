@@ -1,0 +1,8 @@
+{
+  "name": "widget-js-html-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dnstld/widget-js-html-css.git",
+  "author": "Denis Toledo <contato@denistoledo.com.br>",
+  "license": "MIT"
+}
