@@ -25,6 +25,14 @@ module.exports = (env) => {
     module: {
       rules: [
         {
+          test: /\.html$/i,
+          use: 'html-loader'
+        },
+        {
+          test: /\.css$/i,
+          use: ['style-loader', 'css-loader']
+        },
+        {
           test: /\.js$/i,
           exclude: /node_modules/,
           use: {

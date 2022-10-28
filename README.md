@@ -68,6 +68,14 @@ Commit: [f222b10a1fee1d9f80791dfd1affc2dfff4f5c66](https://github.com/dnstld/wid
 yarn add @babel/core @babel/preset-env babel-loader@next core-js -D
 ```
 
+- Adding HTML and CSS
+
+Commit: [05e93b9313ea6c1785da6397703e739b3a64176a](https://github.com/dnstld/widget-js-html-css/commit/05e93b9313ea6c1785da6397703e739b3a64176a)
+
+```
+yarn add css-loader html-loader style-loader -D
+```
+
 ## Develop
 
 To get started:
